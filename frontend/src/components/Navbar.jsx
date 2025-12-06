@@ -8,7 +8,7 @@ export default function Navbar() {
     <nav className="bg-black/20 sticky top-0 text-white backdrop-blur-lg shadow-lg z-50 border-b border-white/10">
       <div className=" px-8 mx-auto py-2 flex items-center justify-between">
         <div className="flex items-center space-x-3">
-          <h1 className="text-2xl font-bold">Linux System Monitor</h1>
+          <h1 className="text-2xl font-bold">Systrace UI</h1>
         </div>
         <div className="flex items-center space-x-6 text-lg">
           <a href="#CPU" className="hover:scale-110 transition">
