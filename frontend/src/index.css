@@ -1,0 +1,5 @@
+/* index.css
+	Global stylesheet entry. Tailwind (utility-first CSS) is used
+	throughout the app; this file imports the Tailwind base. Add
+	any small global overrides below. */
+@import "tailwindcss";
