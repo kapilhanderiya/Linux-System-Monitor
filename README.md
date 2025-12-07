@@ -184,8 +184,8 @@ exec(`kill -TERM ${pid}`);
 ## 📸 Screenshots (Add Yours)
 
 ```
-![CPU & Memory](screenshots/cpu_memory.png)
-![Process Table](screenshots/process_table.png)
+![CPU & Memory](frontend/src/assets/CPU and Memory.png)
+![Process Table](frontend/src/assets/Disk IO and Process.png)
 ![Disk I/O](screenshots/disk_table.png)
 ```
 
